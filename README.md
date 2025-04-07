@@ -16,10 +16,10 @@ As part of the PepsiCo Job Simulation on Forage, I designed and implemented a co
 🛠️ Tech Stack
 Version Control: Git, GitHub
 
-CI/CD Tools: GitHub Actions (or other CI/CD tools as applicable)
+CI/CD Tools: GitHub Actions 
 
 Cloud Platform: Microsoft Azure
 
-Frontend Framework: React.js / HTML/CSS/JavaScript (mention whatever you used)
+Frontend Framework: HTML/CSS/JavaScript 
 
-Testing (Optional): Jest, React Testing Library (if used)
+
